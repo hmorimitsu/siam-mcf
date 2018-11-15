@@ -1,0 +1,13 @@
+{
+	"exemplar_sz": 248,
+	"search_sz": 248,
+	"score_sz": 31,
+	"tot_stride": 8,
+	"context": 1.5,
+	"pad_with_image_mean": true,
+    "exemplar_output_stride": 8,
+    "instance_output_stride": 8,
+    "xcorr_layers": ["siam/block1", "siam/block2", "siam/block3", "siam/block4"],
+    "xcorr_channels": [64, 64, 64, 64],
+    "xcorr_exe_crop_sizes": [7, 7, 7, 7]
+}

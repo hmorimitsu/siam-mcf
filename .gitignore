@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Except
+!.gitignore
+!*.py
+!*.sh
+!parameters/*.json
+!LICENSE*.md
+!README.md
+!README
+
+# Ignore in subdirectories
+!*/

@@ -1,0 +1,1 @@
+This code can be freely used for personal, academic, or educational purposes. Please contact us for commercial use.
